@@ -1,8 +1,6 @@
 # WhiteBoard
 CS151 WhiteBoard Project
 
-Project completed on 12/19/2017
-
 There are three parts to this application:
 
 1) Graphical User Interface (The digital whiteboard): 
@@ -20,6 +18,14 @@ There are three parts to this application:
 
 * The server is capable of changing all the whiteboards (clients) connected to it.
 
+Example Picture:
+
+![Example pic](application_example.png)
+
+
+
+Project completed on 12/19/2017 <br >
+Some bug fixed on 12/25/2018
 
 
 
